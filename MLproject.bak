@@ -1,0 +1,13 @@
+name: conda_tutorial
+
+conda_env:
+   conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha: float
+      l1_ratio: {type: float, default: 0.1}
+    command: "python train.py {alpha} {l1_ratio}"
+  secondary:
+	command: "python exercise2_housing_price_mlflow.py"
