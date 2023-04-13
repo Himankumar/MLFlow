@@ -16,7 +16,7 @@ This Repository contains information on how to run the MLFlow(nested or otherwis
 ## Use the below command to start the MLFlow environment. This command creates a directory called mlruns in your cloned repo directory and will contain all the mlflow runs.
 - mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host 127.0.0.1 --port 5000
 
-## Use below link to open and manage the MLFlow environment
+## Use below link after running the above command to open and manage the MLFlow environment
 - http://127.0.0.1:5000
 
 # First go through the walkthrough to understand the MLFlow run.
