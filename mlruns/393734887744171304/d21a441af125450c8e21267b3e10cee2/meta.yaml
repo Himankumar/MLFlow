@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/himanshu.kumar2687/Documents/ubuntuFold/MLFlow/mlruns/393734887744171304/d21a441af125450c8e21267b3e10cee2/artifacts
+end_time: 1681288474708
+entry_point_name: ''
+experiment_id: '393734887744171304'
+lifecycle_stage: active
+run_id: d21a441af125450c8e21267b3e10cee2
+run_name: bittersweet-toad-840
+run_uuid: d21a441af125450c8e21267b3e10cee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681288450981
+status: 3
+tags: []
+user_id: himanshu.kumar2687

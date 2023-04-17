@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/himanshu.kumar2687/Documents/ubuntuFold/MLFlow/mlruns/393734887744171304/eea49fd91d4c47a09768f4b91f3494ce/artifacts
+end_time: 1681288512556
+entry_point_name: ''
+experiment_id: '393734887744171304'
+lifecycle_stage: active
+run_id: eea49fd91d4c47a09768f4b91f3494ce
+run_name: burly-lark-7
+run_uuid: eea49fd91d4c47a09768f4b91f3494ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681288493370
+status: 3
+tags: []
+user_id: himanshu.kumar2687
